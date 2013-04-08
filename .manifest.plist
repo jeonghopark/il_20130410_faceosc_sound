@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Assets</key>
+	<dict>
+		<key>02B6FB37-6D52-46F9-81C3-181FFACF696F</key>
+		<dict>
+			<key>HREF</key>
+			<string>00001-FaceOSC%20und%20minim%20Sound%20P.jpg</string>
+			<key>Last Modified</key>
+			<date>2013-04-07T23:49:34Z</date>
+			<key>Size</key>
+			<integer>89132</integer>
+		</dict>
+		<key>11C3CF6E-2470-4A89-AF30-1AB1C4188CB7</key>
+		<dict>
+			<key>HREF</key>
+			<string>00003-minim%20Sound%20and%20mousePosi.jpg</string>
+			<key>Last Modified</key>
+			<date>2013-04-07T23:49:36Z</date>
+			<key>Size</key>
+			<integer>74406</integer>
+		</dict>
+		<key>8AFF7004-3BD6-4450-BBB1-13A442CE8721</key>
+		<dict>
+			<key>HREF</key>
+			<string>00002-minim%20Sound%20and%20keyboard.jpg</string>
+			<key>Last Modified</key>
+			<date>2013-04-07T23:49:35Z</date>
+			<key>Size</key>
+			<integer>111247</integer>
+		</dict>
+		<key>D4007C03-CF27-43F4-BE4A-E09C1A3F2089</key>
+		<dict>
+			<key>HREF</key>
+			<string>00004-minim%20Sound%20and%20mousePosi.jpg</string>
+			<key>Last Modified</key>
+			<date>2013-04-07T23:49:37Z</date>
+			<key>Size</key>
+			<integer>230159</integer>
+		</dict>
+	</dict>
+	<key>Settings</key>
+	<dict>
+		<key>Compression Factor</key>
+		<real>0.80000001192092896</real>
+		<key>Image Type</key>
+		<integer>0</integer>
+		<key>Max Width</key>
+		<integer>1024</integer>
+		<key>Scale Image to Max Width</key>
+		<false/>
+		<key>Use Idea Space Size</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
